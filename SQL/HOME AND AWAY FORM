@@ -1,0 +1,126 @@
+
+###Query to identify the home and away performance(Home and Away Wins,Home and Away Draws) of top 5 teams against all other teams(Not all teams query will be listed, but it will show the general idea)
+
+###Home Wins
+
+/*SELECT home_team,away_team,season, count(result) AS Home_Wins
+FROM `valid-amplifier-343113.STATS.Results`
+where home_team='Manchester City' AND result='H' 
+group by home_team, away_team, season
+order by season*/
+
+###Away Wins
+/*SELECT home_team,away_team,season, count(result) Away_Wins
+FROM `valid-amplifier-343113.STATS.Results`
+where Away_team='Manchester City AND result='A' 
+group by home_team, away_team,season
+order by season*/
+
+###Home Draws
+/*SELECT home_team,away_team,season, count(result) AS Home_Draws
+FROM `valid-amplifier-343113.STATS.Results`
+where home_team='Manchester City' AND result='D' 
+group by home_team, away_team, season
+order by season*/
+
+###Away Draws
+/*SELECT home_team,away_team,season, count(result) AS Away_Draws
+FROM `valid-amplifier-343113.STATS.Results`
+where Away_team='Manchester City'  AND result='D' 
+group by season, home_team,away_team
+order by season*/
+
+
+
+
+#Query to sum the result column created above to show the amount of times a team won or drew all season long (Home and Away)
+
+#The Query also changes away team and home team to "team" in both draws and wins tables so they can be joined successfully later on
+
+
+/*SELECT home_team as team,season, sum(Home_Draws) AS totaL_home_Draws
+FROM `valid-amplifier-343113.fresh.man city home draws`
+group by home_team, season
+order by season*/
+
+
+/*SELECT away_team as team,season, sum(away_Draws) AS totaL_away_Draws
+FROM `valid-amplifier-343113.fresh.man city away draws` 
+group by away_team, season
+order by season*/
+
+
+/*SELECT home_team as team,season, sum(Home_Wins) AS totaL_home_Wins
+FROM `valid-amplifier-343113.NEW.Manchester City Home Wins`
+group by home_team, season
+order by season*/
+
+
+/*SELECT away_team as team,season, sum(away_Wins) AS totaL_away_Wins
+FROM `valid-amplifier-343113.NEW.Manchester city total away wins` 
+group by away_team, season
+order by season*/
+
+
+###Query to update missing rows with zero to maintain data quality.
+
+
+/*insert into `valid-amplifier-343113.fresh.Man city total home draws`(team,season,total_home_draws)
+values ('Manchester City','2008-2009',0)*/
+
+
+#Accidentally added the wrong row, used the delete from command to remove the wrong row
+
+/*delete from `valid-amplifier-343113.fresh.Man city total home draws`
+where team= "Manchester United"*/
+
+
+
+
+##Query to Join Draw Tables (Home and Away) for each team. Do same for Win Tables.So we can arrive at draw Tables and Win Tables.
+
+
+/*select *
+from `valid-amplifier-343113.fresh.Man city total away draws`
+full join `valid-amplifier-343113.fresh.Man city total home draws`
+using (team,season)
+order by season*/
+
+/*select *
+from `valid-amplifier-343113.active.Man city total away wins`
+full join `valid-amplifier-343113.active.Man city total home wins`
+using (team,season)
+order by season*/
+
+
+
+###Query to join Draw and Win Tables for each team
+
+
+
+/*select *
+from `valid-amplifier-343113.Arsenal_and_Others.LIVERPOOL WINS`
+full join `valid-amplifier-343113.Arsenal_and_Others.LIVERPOOL DRAWS `
+using (team,season)
+order by season*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
