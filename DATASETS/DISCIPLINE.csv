@@ -1,0 +1,241 @@
+team,total_yel_card,total_red_card,season
+Liverpool,44,0,2006-2007
+Aston Villa,48,1,2006-2007
+Newcastle United,65,1,2006-2007
+Manchester United,60,1,2006-2007
+Portsmouth,48,1,2006-2007
+Middlesbrough,64,2,2006-2007
+West Ham United,85,2,2006-2007
+Watford,45,2,2006-2007
+Everton,65,2,2006-2007
+Sheffield United,68,2,2006-2007
+Arsenal,59,3,2006-2007
+Tottenham Hotspur,48,3,2006-2007
+Reading,38,3,2006-2007
+Fulham,56,3,2006-2007
+Wigan Athletic,73,3,2006-2007
+Chelsea,62,4,2006-2007
+Manchester City,59,4,2006-2007
+Bolton Wanderers,84,4,2006-2007
+Charlton Athletic,56,4,2006-2007
+Blackburn Rovers,77,6,2006-2007
+Bolton Wanderers,76,0,2007-2008
+Newcastle United,63,1,2007-2008
+Tottenham Hotspur,51,1,2007-2008
+Derby County,63,1,2007-2008
+Liverpool,45,1,2007-2008
+West Ham United,63,1,2007-2008
+Manchester United,51,2,2007-2008
+Middlesbrough,86,2,2007-2008
+Everton,40,3,2007-2008
+Birmingham City,70,3,2007-2008
+Arsenal,55,3,2007-2008
+Portsmouth,55,3,2007-2008
+Sunderland,65,4,2007-2008
+Wigan Athletic,59,4,2007-2008
+Aston Villa,54,4,2007-2008
+Manchester City,50,4,2007-2008
+Chelsea,63,5,2007-2008
+Reading,59,5,2007-2008
+Fulham,55,6,2007-2008
+Blackburn Rovers,72,6,2007-2008
+Liverpool,50,0,2008-2009
+Everton,49,1,2008-2009
+West Bromwich Albion,67,1,2008-2009
+Fulham,40,1,2008-2009
+Bolton Wanderers,62,1,2008-2009
+Sunderland,69,1,2008-2009
+Aston Villa,54,2,2008-2009
+Middlesbrough,55,3,2008-2009
+Chelsea,50,3,2008-2009
+Hull City,71,3,2008-2009
+Arsenal,58,3,2008-2009
+Blackburn Rovers,74,4,2008-2009
+Manchester City,49,4,2008-2009
+Wigan Athletic,59,4,2008-2009
+West Ham United,66,4,2008-2009
+Manchester United,61,5,2008-2009
+Tottenham Hotspur,54,5,2008-2009
+Stoke City,73,5,2008-2009
+Portsmouth,58,5,2008-2009
+Newcastle United,57,8,2008-2009
+Birmingham City,74,1,2009-2010
+Fulham,46,1,2009-2010
+Arsenal,56,1,2009-2010
+Tottenham Hotspur,58,1,2009-2010
+Aston Villa,59,2,2009-2010
+Blackburn Rovers,57,2,2009-2010
+Manchester City,49,2,2009-2010
+Everton,57,2,2009-2010
+Burnley,57,2,2009-2010
+Wigan Athletic,65,3,2009-2010
+West Ham United,62,3,2009-2010
+Manchester United,49,4,2009-2010
+Wolverhampton Wanderers,63,4,2009-2010
+Chelsea,54,5,2009-2010
+Liverpool,55,5,2009-2010
+Portsmouth,68,5,2009-2010
+Bolton Wanderers,74,5,2009-2010
+Stoke City,63,5,2009-2010
+Hull City,64,6,2009-2010
+Sunderland,77,9,2009-2010
+Chelsea,59,1,2010-2011
+Fulham,52,1,2010-2011
+West Ham United,59,1,2010-2011
+Liverpool,63,2,2010-2011
+Aston Villa,71,2,2010-2011
+Newcastle United,78,2,2010-2011
+Wolverhampton Wanderers,62,2,2010-2011
+Blackpool,47,2,2010-2011
+Tottenham Hotspur,51,2,2010-2011
+Stoke City,68,2,2010-2011
+Manchester United,56,3,2010-2011
+Birmingham City,57,3,2010-2011
+Wigan Athletic,67,4,2010-2011
+Everton,55,5,2010-2011
+Sunderland,57,5,2010-2011
+Blackburn Rovers,65,5,2010-2011
+Manchester City,71,5,2010-2011
+Bolton Wanderers,67,5,2010-2011
+Arsenal,65,6,2010-2011
+West Bromwich Albion,52,7,2010-2011
+Fulham,54,0,2011-2012
+Manchester United,51,1,2011-2012
+West Bromwich Albion,48,1,2011-2012
+Stoke City,60,2,2011-2012
+Aston Villa,70,2,2011-2012
+Newcastle United,67,2,2011-2012
+Everton,60,2,2011-2012
+Swansea City,40,2,2011-2012
+Tottenham Hotspur,43,3,2011-2012
+Norwich City,58,3,2011-2012
+Wigan Athletic,67,3,2011-2012
+Chelsea,74,4,2011-2012
+Arsenal,64,4,2011-2012
+Sunderland,60,4,2011-2012
+Wolverhampton Wanderers,64,4,2011-2012
+Manchester City,51,5,2011-2012
+Liverpool,53,5,2011-2012
+Bolton Wanderers,50,5,2011-2012
+Blackburn Rovers,66,5,2011-2012
+Queens Park Rangers,54,9,2011-2012
+Manchester United,57,1,2012-2013
+West Ham United,74,1,2012-2013
+Reading,45,1,2012-2013
+Norwich City,60,1,2012-2013
+Tottenham Hotspur,55,2,2012-2013
+Liverpool,54,2,2012-2013
+Swansea City,58,2,2012-2013
+Wigan Athletic,66,2,2012-2013
+Southampton,43,2,2012-2013
+Chelsea,51,3,2012-2013
+Everton,59,3,2012-2013
+Sunderland,62,3,2012-2013
+Queens Park Rangers,59,3,2012-2013
+Manchester City,62,3,2012-2013
+Aston Villa,72,3,2012-2013
+Fulham,48,3,2012-2013
+Newcastle United,71,4,2012-2013
+Stoke City,78,4,2012-2013
+West Bromwich Albion,63,4,2012-2013
+Arsenal,42,5,2012-2013
+Southampton,60,0,2013-2014
+Aston Villa,78,0,2013-2014
+West Bromwich Albion,67,0,2013-2014
+Manchester City,72,1,2013-2014
+Fulham,58,1,2013-2014
+Cardiff City,49,1,2013-2014
+Liverpool,54,1,2013-2014
+Everton,55,1,2013-2014
+Crystal Palace,58,2,2013-2014
+Norwich City,62,2,2013-2014
+Chelsea,57,3,2013-2014
+Manchester United,66,3,2013-2014
+Swansea City,55,3,2013-2014
+Arsenal,53,4,2013-2014
+Tottenham Hotspur,66,4,2013-2014
+Hull City,53,4,2013-2014
+West Ham United,62,5,2013-2014
+Stoke City,72,5,2013-2014
+Newcastle United,53,6,2013-2014
+Sunderland,69,7,2013-2014
+Stoke City,82,1,2014-2015
+Arsenal,68,2,2014-2015
+Everton,66,2,2014-2015
+Sunderland,94,2,2014-2015
+Manchester City,77,2,2014-2015
+Burnley,64,2,2014-2015
+West Ham United,64,2,2014-2015
+Southampton,57,3,2014-2015
+West Bromwich Albion,64,3,2014-2015
+Liverpool,66,3,2014-2015
+Queens Park Rangers,75,3,2014-2015
+Chelsea,73,4,2014-2015
+Leicester City,49,4,2014-2015
+Tottenham Hotspur,79,4,2014-2015
+Crystal Palace,63,4,2014-2015
+Swansea City,48,5,2014-2015
+Manchester United,64,5,2014-2015
+Hull City,73,6,2014-2015
+Aston Villa,70,7,2014-2015
+Newcastle United,65,7,2014-2015
+Manchester City,61,0,2015-2016
+Tottenham Hotspur,72,0,2015-2016
+Manchester United,65,1,2015-2016
+Swansea City,60,1,2015-2016
+AFC Bournemouth,53,1,2015-2016
+Crystal Palace,60,2,2015-2016
+Sunderland,64,2,2015-2016
+Leicester City,48,3,2015-2016
+West Bromwich Albion,65,3,2015-2016
+Norwich City,61,3,2015-2016
+Liverpool,61,3,2015-2016
+Aston Villa,75,3,2015-2016
+Watford,73,3,2015-2016
+Arsenal,40,4,2015-2016
+Stoke City,51,4,2015-2016
+Everton,44,5,2015-2016
+Chelsea,58,5,2015-2016
+Newcastle United,60,5,2015-2016
+West Ham United,58,5,2015-2016
+Southampton,57,6,2015-2016
+Chelsea,72,0,2016-2017
+Tottenham Hotspur,62,0,2016-2017
+Crystal Palace,77,0,2016-2017
+West Bromwich Albion,80,0,2016-2017
+Swansea City,56,0,2016-2017
+Liverpool,54,0,2016-2017
+Leicester City,72,1,2016-2017
+Middlesbrough,77,1,2016-2017
+Manchester United,78,2,2016-2017
+Southampton,59,2,2016-2017
+Burnley,65,2,2016-2017
+Stoke City,70,2,2016-2017
+Everton,72,2,2016-2017
+Arsenal,68,3,2016-2017
+AFC Bournemouth,52,3,2016-2017
+Sunderland,78,4,2016-2017
+Manchester City,71,4,2016-2017
+West Ham United,78,5,2016-2017
+Watford,84,5,2016-2017
+Hull City,67,5,2016-2017
+Crystal Palace,72,0,2017-2018
+Burnley,65,0,2017-2018
+Manchester United,64,1,2017-2018
+Stoke City,62,1,2017-2018
+West Bromwich Albion,73,1,2017-2018
+AFC Bournemouth,55,1,2017-2018
+Liverpool,44,1,2017-2018
+Swansea City,51,1,2017-2018
+Tottenham Hotspur,50,2,2017-2018
+Arsenal,57,2,2017-2018
+West Ham United,73,2,2017-2018
+Southampton,63,2,2017-2018
+Manchester City,59,2,2017-2018
+Newcastle United,52,2,2017-2018
+Brighton and Hove Albion,54,2,2017-2018
+Everton,51,3,2017-2018
+Huddersfield Town,62,3,2017-2018
+Chelsea,42,4,2017-2018
+Watford,63,4,2017-2018
+Leicester City,52,5,2017-2018
